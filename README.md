@@ -63,10 +63,6 @@
 | **Real-Time Web Classifier** | `JavaScript` `NLP` `LLM APIs` | In-browser live DOM content filtering & transparent context-aware explanations. |
 | **MyMalloc & Heap Engine** | `C` `Memory Mgmt` `Pointers` | Custom dynamic memory allocator studying pointer alignment and heap fragmentation. |
 
-
-
 <br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimEmreCelenli&theme=tokyonight&hide_border=true" width="97%" />
-</div>
+
